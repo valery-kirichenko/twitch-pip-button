@@ -4,8 +4,8 @@
 // @description Add picutre in picture button to twitch.tv player. Only for macOS 10.12+
 // @author      Valery Kirichenko
 // @homepage    https://github.com/valera5505/twitch-pip-button
-// @match      http://www.twitch.tv/*
-// @match      http://player.twitch.tv/*
+// @match       *://www.twitch.tv/*
+// @match       *://player.twitch.tv/*
 // @version     1.0
 // @grant       none
 // ==/UserScript==
