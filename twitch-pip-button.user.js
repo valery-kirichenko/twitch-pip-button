@@ -26,6 +26,7 @@ var playerReady = setInterval(function() {
 			btn.id = "pip-button";
 			btn.innerHTML = '<span class="icon-1"></span>';
 			btn.style.padding = "1px 5px 1em";
+			
 			document.querySelector("div.player-buttons-right").insertBefore(btn, document.querySelector("button.player-button--fullscreen"));
 			btn.addEventListener("click", function() {
 				document.querySelector("video").webkitSetPresentationMode('picture-in-picture');
@@ -33,4 +34,3 @@ var playerReady = setInterval(function() {
 		}, 100);
 	}
 }, 100);
-
