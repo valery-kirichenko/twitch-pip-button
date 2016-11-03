@@ -6,7 +6,7 @@
 // @homepage    https://github.com/valera5505/twitch-pip-button
 // @match       *://www.twitch.tv/*
 // @match       *://player.twitch.tv/*
-// @version     1.0
+// @version     1.1
 // @grant       none
 // ==/UserScript==
 
