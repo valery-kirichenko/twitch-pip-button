@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'pipicon';
-  src:  url('https://cdn.rawgit.com/valera5505/twitch-pip-button/master/icon.eot');
-  src:  url('https://cdn.rawgit.com/valera5505/twitch-pip-button/master/icon.eot') format('embedded-opentype'),
-    url('https://cdn.rawgit.com/valera5505/twitch-pip-button/master/icon.ttf') format('truetype'),
-    url('https://cdn.rawgit.com/valera5505/twitch-pip-button/master/icon.woff') format('woff'),
-    url('https://cdn.rawgit.com/valera5505/twitch-pip-button/master/icon.svg') format('svg');
+  src:  url('https://raw.githubusercontent.com/valera5505/twitch-pip-button/master/icon.eot');
+  src:  url('https://raw.githubusercontent.com/valera5505/twitch-pip-button/master/icon.eot') format('embedded-opentype'),
+    url('https://raw.githubusercontent.com/valera5505/twitch-pip-button/master/icon.ttf') format('truetype'),
+    url('https://raw.githubusercontent.com/valera5505/twitch-pip-button/master/icon.woff') format('woff'),
+    url('https://raw.githubusercontent.com/valera5505/twitch-pip-button/master/icon.svg') format('svg');
   font-weight: normal;
   font-style: normal;
 }

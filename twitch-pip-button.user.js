@@ -15,7 +15,7 @@ var playerReady = setInterval(function() {
 		clearInterval(playerReady);
 		var css = document.createElement("link");
 		css.rel = "stylesheet";
-		css.href = "https://cdn.rawgit.com/valera5505/twitch-pip-button/master/style.css";
+		css.href = "https://raw.githubusercontent.com/valera5505/twitch-pip-button/master/style.css";
 		document.getElementsByTagName("head")[0].appendChild(css);
 
 		var btn = document.createElement("button");
