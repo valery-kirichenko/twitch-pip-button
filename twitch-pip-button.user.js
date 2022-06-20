@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name        Twitch PiP button
 // @namespace   https://github.com/valery-kirichenko
-// @description Add picutre in picture button to twitch.tv player. Only for macOS 10.12+
+// @description Add picture in picture button to twitch.tv player. Only for macOS 10.12+
 // @author      Valery Kirichenko, Konopielko
-// @license	    This script uses Material Symbols which are available under the Apache License Version 2.0.
+// @license     This script uses Material Symbols which are available under the Apache License Version 2.0.
 // @homepage    https://github.com/valery-kirichenko/twitch-pip-button
 // @match       *://www.twitch.tv/*
 // @match       *://player.twitch.tv/*
